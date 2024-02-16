@@ -1,1 +1,1 @@
-# pepsi-cl.one
+# pepsi-clone
